@@ -15,4 +15,4 @@ The following repository contains attribute information on Maryland Animal Feedi
 * AFO Registration Number
 * Status
 
-Be sure to view commit history for the data set updates.  For more information and data set source please visit:  http://www.mde.state.md.us/programs/Land/RecyclingandOperationsprogram/AFO/Pages/CAFO.aspx
+Due to unclear data managment protocols by the state, our team only maintains these data only include registered Animal Feeding Opearations.  Be sure to view commit history for the data set updates.  For more information and data set source please visit:  http://www.mde.state.md.us/programs/Land/RecyclingandOperationsprogram/AFO/Pages/CAFO.aspx
